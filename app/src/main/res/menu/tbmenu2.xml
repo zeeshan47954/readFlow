@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/speak"
+        android:title="speak"
+        android:icon="@drawable/newtexttospeech"
+        app:showAsAction="always"
+         />
+    <item
+        android:id="@+id/speaklinebyline"
+        android:title="speak"
+        android:icon="@drawable/speak"
+        app:showAsAction="always"
+        />
+
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group >
+
+        <item  android:title="home"
+            android:id="@+id/home"
+            android:icon="@drawable/home" />
+        <item android:title="search another"
+            android:id="@+id/search"
+            android:icon="@drawable/search"/>
+
+        <item android:title="talk to expert"
+            android:id="@+id/help"
+            android:icon="@drawable/help"/>
+        <item android:title="audio books"
+            android:icon="@drawable/audio"
+            android:id="@+id/audiobook"/>
+        <item android:title="test Ur limit"
+            android:id="@+id/puzzles"
+            android:icon="@drawable/brain"/>
+
+
+
+    </group>
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677411074949",
+    "project_id": "adhdapp-77c1f",
+    "storage_bucket": "adhdapp-77c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677411074949:android:2a00ccd67a37c98ce60aec",
+        "android_client_info": {
+          "package_name": "com.example.adhdapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH7DsOVrh9IDzmh3PRP0U0w1N00v7EGeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
